@@ -1,0 +1,9 @@
+back {
+  background: wheat;
+}
+html {
+  scroll-behavior: smooth;
+}
+ul {
+  list-style-type: circle;
+}
